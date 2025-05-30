@@ -27,7 +27,7 @@ To get this project up and running, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/youtube-sentiment-analysis.git
+git clone https://github.com/sidharth2025-net/Sentiment-Analysis-on-YouTube-Video.git
 cd youtube-sentiment-analysis
 
 (Remember to replace YOUR_USERNAME with your actual GitHub username.)
