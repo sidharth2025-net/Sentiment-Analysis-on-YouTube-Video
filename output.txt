@@ -1,0 +1,17 @@
+Enter YouTube Video URL: https://youtu.be/r-lGWG7vHNE?si=w36grj1P36MDCIyH
+Fetching comments for Video ID: r-lGWG7vHNE...
+Total comments fetched: 157
+Filtered relevant comments: 139
+
+Average Sentiment Score: 0.12
+Overall Sentiment: Positive
+
+Most Positive Comment:
+classic indian script 😂😂😂😂😂😂😂😂😂😂😂😂😂🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
+
+Most Negative Comment:
+this type of scam has become very common in brazil. the preferred victims of cyber thieves are elderly people who use banking apps on their smartphones. 
+every now and then, the police bust a gang and arrest the criminals. but a few days later, the same type of crime happens again using the same virtual tools. 
+brazilian law requires banks to protect the rights of the elderly. but in recent months, the courts have begun to consolidate the understanding that the blame for 
+the losses lies not with the bank, which failed to adopt strict virtual security routines, but rather with the elderly who were victims. this is truly regrettable.
+
